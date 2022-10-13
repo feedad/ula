@@ -431,10 +431,10 @@ https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies", Fox Movies
+#EXTINF:-1 tvg-logo="" group-title="Movies", Fox Movies
 http://my.giant-iptv.com:80/live/bassam/bassam123/2400.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies", Fox Action Movies
+#EXTINF:-1 tvg-logo="" group-title="Movies", Fox Action Movies
 http://my.giant-iptv.com:80/live/bassam/bassam123/2401.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -457,16 +457,16 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies", BeIN Movies 1 Premiere
+#EXTINF:-1 tvg-logo="" group-title="Movies", BeIN Movies 1 Premiere
 http://my.giant-iptv.com:80/live/bassam/bassam123/2406.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies", BeIN Movies 2 Action
+#EXTINF:-1 tvg-logo="" group-title="Movies", BeIN Movies 2 Action
 http://my.giant-iptv.com:80/live/bassam/bassam123/2405.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies", BeIN Movies 3 Drama
+#EXTINF:-1 tvg-logo="" group-title="Movies", BeIN Movies 3 Drama
 http://my.giant-iptv.com:80/live/bassam/bassam123/2404.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Movies", BeIN Movies 4 Family
+#EXTINF:-1 tvg-logo="" group-title="Movies", BeIN Movies 4 Family
 http://my.giant-iptv.com:80/live/bassam/bassam123/2403.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -701,178 +701,178 @@ https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Music TV
+#EXTINF:-1 group-title="Musics" tvg-logo="",Music TV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Musics", Musica
+#EXTINF:-0 tvg-name="TV" tvg-logo="" group-title="Musics", Musica
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Musics", Now 70s
+#EXTINF:-0 tvg-name="TV" tvg-logo="" group-title="Musics", Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Musics", Now 80s
+#EXTINF:-0 tvg-name="TV" tvg-logo="" group-title="Musics", Now 80s
 https://bit.ly/3S2ZXT7
 
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Musics", Now 90s
+#EXTINF:-0 tvg-name="TV" tvg-logo="" group-title="Musics", Now 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Movie Hits
+#EXTINF:-1 group-title="Musics" tvg-logo="", MTV Movie Hits
 https://bit.ly/3etlpS6
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV RockZone
+#EXTINF:-1 group-title="Musics" tvg-logo="", MTV RockZone
 https://bit.ly/3RRSwO6
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Music
+#EXTINF:-1 group-title="Musics" tvg-logo="", MTV Music
 https://bit.ly/3RzzKey
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",MTV Biggest Pop
+#EXTINF:-1 group-title="Musics" tvg-logo="",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",MTV Block Party
+#EXTINF:-1 group-title="Musics" tvg-logo="",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",MTV Spankin' New
+#EXTINF:-1 group-title="Musics" tvg-logo="",MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV 
+#EXTINF:-1 group-title="Musics" tvg-logo="", MTV 
 https://bit.ly/3HMG7qJ
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Love Music
+#EXTINF:-1 group-title="Musics" tvg-logo="", MTV Love Music
 https://bit.ly/3TXAifG
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Yo! MTV
+#EXTINF:-1 group-title="Musics" tvg-logo="", Yo! MTV
 https://bit.ly/3d5VfVm
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Unplugged
+#EXTINF:-1 group-title="Musics" tvg-logo="", MTV Unplugged
 https://bit.ly/3DczYE3
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Japan (Not 24/7)
+#EXTINF:-1 group-title="Musics" tvg-logo="", MTV Japan (Not 24/7)
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", MTV Hits France (Not 24/7)
+#EXTINF:-1 group-title="Musics" tvg-logo="", MTV Hits France (Not 24/7)
 http://190.2.155.162:8080/mtvhit/mpegts
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",CMT Music
+#EXTINF:-1 group-title="Musics" tvg-logo="",CMT Music
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Box Hits
+#EXTINF:-1 group-title="Musics" tvg-logo="", Box Hits
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", CMC
+#EXTINF:-1 group-title="Musics" tvg-logo="", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", GO TV
+#EXTINF:-1 group-title="Musics" tvg-logo="", GO TV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Loop TV
+#EXTINF:-1 group-title="Musics" tvg-logo="", Loop TV
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Live Music Replay
+#EXTINF:-1 group-title="Musics" tvg-logo="", Live Music Replay
 https://bit.ly/3L4Brhm
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo '70s
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo '70s
 https://bit.ly/3OkyHxq
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo '80s
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo '80s
 https://bit.ly/3OhWrCj
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo '90s
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo '90s
 https://bit.ly/3GS5WFz
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo '90s & '00s
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo '90s & '00s
 https://tinyurl.com/TiviMe-Vevo90s00s
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo 2K
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo 2K
 https://bit.ly/3NkcUoQ
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",Vevo Retro Rock
+#EXTINF:-1 group-title="Musics" tvg-logo="",Vevo Retro Rock
 https://bit.ly/3GFqbpv
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo Pop
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo Pop
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo R&B
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo R&B
 https://bit.ly/3RPleyX
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo True School Hip-Hop
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo True School Hip-Hop
 https://bit.ly/3AYTTDE
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo Reggaeton & Trap
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo Reggaeton & Trap
 https://bit.ly/3Ry03Si
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo Latino
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo Latino
 https://bit.ly/3DdDrlO
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Vevo Country
+#EXTINF:-1 group-title="Musics" tvg-logo="", Vevo Country
 https://bit.ly/3BDpT1T
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", VH1 Classic
+#EXTINF:-1 group-title="Musics" tvg-logo="", VH1 Classic
 https://bit.ly/3PTpq0A
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", New KPop
+#EXTINF:-1 group-title="Musics" tvg-logo="", New KPop
 https://tinyurl.com/TiviMe-NewKPop
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Retro Music TV
+#EXTINF:-1 group-title="Musics" tvg-logo="", Retro Music TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Retro Plus
+#EXTINF:-1 group-title="Musics" tvg-logo="", Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Rock TV
+#EXTINF:-1 group-title="Musics" tvg-logo="", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Karaoke
+#EXTINF:-1 group-title="Musics" tvg-logo="", Stingray Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Rock Alternative
+#EXTINF:-1 group-title="Musics" tvg-logo="", Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Classic Rock
+#EXTINF:-1 group-title="Musics" tvg-logo="", Stingray Classic Rock
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", The Edge
+#EXTINF:-1 group-title="Musics" tvg-logo="", The Edge
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", The Retro Channel
+#EXTINF:-1 group-title="Musics" tvg-logo="", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Trace Urban
+#EXTINF:-1 group-title="Musics" tvg-logo="", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE
+#EXTINF:-1 group-title="Musics" tvg-logo="", XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE Hits
+#EXTINF:-1 group-title="Musics" tvg-logo="", XITE Hits
 https://tinyurl.com/TiviMe-XiteHits
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE 80s Flashback
+#EXTINF:-1 group-title="Musics" tvg-logo="", XITE 80s Flashback
 https://tinyurl.com/XITE80s
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE 90s Throwback
+#EXTINF:-1 group-title="Musics" tvg-logo="", XITE 90s Throwback
 https://tinyurl.com/XITE90ss
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE Rock On
+#EXTINF:-1 group-title="Musics" tvg-logo="", XITE Rock On
 https://tinyurl.com/XiteRock
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", XITE Just Chill
+#EXTINF:-1 group-title="Musics" tvg-logo="", XITE Just Chill
 https://tinyurl.com/XiteJTCL
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Flashback 70s
+#EXTINF:-1 group-title="Musics" tvg-logo="", Stingray Flashback 70s
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Remember The '80s
+#EXTINF:-1 group-title="Musics" tvg-logo="", Stingray Remember The '80s
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Nothin' But 90s
+#EXTINF:-1 group-title="Musics" tvg-logo="", Stingray Nothin' But 90s
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=Xuew2uGdQ_xypyxEMpTm
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray  Greatest Hits
+#EXTINF:-1 group-title="Musics" tvg-logo="", Stingray  Greatest Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aa97d4113e1e5137fd5325&is_lat=0
 
-#EXTINF:-1 group-title="Musics" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Stingray Hit List
+#EXTINF:-1 group-title="Musics" tvg-logo="", Stingray Hit List
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Sports",SUBSCRIBE TiviMe YOUTUBE
+#EXTINF:-1 tvg-logo="" group-title="Sports",SUBSCRIBE TiviMe YOUTUBE
 https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1187,139 +1187,139 @@ https://h1.intechmedia.net/intech/ch22.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",SUBSCRIBE TiviMe YOUTUBE
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV",SUBSCRIBE TiviMe YOUTUBE
 https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0'' group-title="Pluto TV", Nick Pluto TV
+#EXTINF:0 tvg-logo="'' group-title="Pluto TV", Nick Pluto TV
 https://bit.ly/3Bwp9eR
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0'' group-title="Pluto TV", Nick Jr. Pluto TV
+#EXTINF:0 tvg-logo="'' group-title="Pluto TV", Nick Jr. Pluto TV
 https://bit.ly/3QwSRoa
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0'' group-title="Pluto TV", Baby Shark TV
+#EXTINF:0 tvg-logo="'' group-title="Pluto TV", Baby Shark TV
 https://bit.ly/3TYQJbS
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0'' group-title="Pluto TV", Pluto TV Kids
+#EXTINF:0 tvg-logo="'' group-title="Pluto TV", Pluto TV Kids
 https://bit.ly/3RUJhML
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Kids Movie Club
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Kids Movie Club
 https://bit.ly/3xbVZPs
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Kartoon Channel
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Kartoon Channel
 https://bit.ly/3B8sJdL
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", LEGO Kids Channel
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", LEGO Kids Channel
 https://bit.ly/3cZ7Cm7
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Forever Kids
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Forever Kids
 https://bit.ly/3TXJz7C
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Totally Turtles
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Totally Turtles
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Garfield & Friends
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Garfield & Friends
 https://bit.ly/3xbYSja
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Moonbug Kids
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Moonbug Kids
 https://bit.ly/3TXzQOD
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Always Funny Videos
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Always Funny Videos
 https://tinyurl.com/AMFVSS
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", FailArmy
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", FailArmy
 https://tinyurl.com/FailsArmys
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Just For Laughs
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Just For Laughs
 https://bit.ly/3yhvTLT
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Pimp My Ride
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Pimp My Ride
 https://bit.ly/3Rr0nSE
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Pranks
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Pranks
 https://bit.ly/3RvBaXo
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Fear Factor
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Fear Factor
 https://bit.ly/3qoXZQA
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Pluto TV Vs.
+#EXTINF:-1 tvg-logo="" group-title="Pluto TV", Pluto TV Vs.
 https://bit.ly/3d1NsYt
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Pluto TV Action
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Pluto TV Action
 https://bit.ly/39SoJ7h
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Pluto TV Horror
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Pluto TV Horror
 https://bit.ly/3NjRho7
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Flicks of Fury
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Flicks of Fury
 https://bit.ly/3A0onWR
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",The Asylum
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",The Asylum
 https://bit.ly/3zZ96pm
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Pluto TV Comedy
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Pluto TV Comedy
 https://bit.ly/3HPTypV
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Pluto TV Romance
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Pluto TV Romance
 https://bit.ly/3OHnk2p
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Pluto TV Thrillers
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Pluto TV Thrillers
 https://bit.ly/3bpnWvh
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Pluto TV Drama
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Pluto TV Drama
 https://bit.ly/3tZ6cNr
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Pluto TV Fantastic
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Pluto TV Fantastic
 https://bit.ly/3u1hD7A
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Pluto TV Cult Films
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Pluto TV Cult Films
 https://bit.ly/3OGm0wr
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV",Pluto TV Terror
+#EXTINF:0 tvg-logo="" group-title="Pluto TV",Pluto TV Terror
 https://bit.ly/3xOTa6o
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Pluto TV Reaction
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Pluto TV Reaction
 https://bit.ly/3eDoZJp
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Pluto TV Staff Picks
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Pluto TV Staff Picks
 https://bit.ly/3BHXCap
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Pluto TV Crime Movies
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Pluto TV Crime Movies
 https://bit.ly/3qAyqfs
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Pluto TV Love Stories
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Pluto TV Love Stories
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e181520cfa000771ce79/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Pluto TV Suspense
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Pluto TV Suspense
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Pluto TV Sci-Fi
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Pluto TV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", 70s Cinema
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", 70s Cinema
 https://bit.ly/3QJvR5l
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", 80s Rewind
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", 80s Rewind
 https://bit.ly/3xnk85O
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", 90s Throwback
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", 90s Throwback
 https://bit.ly/3RLGaY7
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", OOs Replay
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", OOs Replay
 https://bit.ly/3dfll8q
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Paramount Movie Channel
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Paramount Movie Channel
 https://bit.ly/3QD0uKW
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Paramount+ Picks
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Paramount+ Picks
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", TV Land Drama
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", TV Land Drama
 https://bit.ly/3raaoII
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Classic TV Drama
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Classic TV Drama
 https://bit.ly/3BqFwZc
 
-#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Pluto TV", Hallmark Movies & More
+#EXTINF:0 tvg-logo="" group-title="Pluto TV", Hallmark Movies & More
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
