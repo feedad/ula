@@ -1,0 +1,6 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", TRESNO
+http://202.93.129.42:1935/live/TresnoTV/playlist.m3u8
